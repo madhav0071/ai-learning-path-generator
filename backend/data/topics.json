@@ -1,0 +1,19 @@
+{
+  "machine learning": [
+    {"topic": "Python for ML"},
+    {"topic": "Statistics"},
+    {"topic": "Linear Regression"},
+    {"topic": "Classification"},
+    {"topic": "Neural Networks"},
+    {"topic": "ML Project"}
+  ],
+
+  "python": [
+    {"topic": "Python Basics"},
+    {"topic": "Variables and Data Types"},
+    {"topic": "Loops and Conditions"},
+    {"topic": "Functions"},
+    {"topic": "Object Oriented Programming"},
+    {"topic": "Python Projects"}
+  ]
+}
