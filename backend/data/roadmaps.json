@@ -1,0 +1,170 @@
+{
+  "java": [
+    "introduction to java",
+    "java syntax and variables",
+    "control flow and loops",
+    "object oriented programming",
+    "collections framework",
+    "exception handling",
+    "java project",
+    "java practice project"
+  ],
+
+  "python": [
+    "introduction to python",
+    "variables and data types",
+    "control flow and loops",
+    "functions and modules",
+    "object oriented programming",
+    "working with libraries",
+    "python project",
+    "python practice project"
+  ],
+
+  "javascript": [
+    "introduction to javascript",
+    "variables, scopes and hoisting",
+    "control flow and loops",
+    "functions and closures",
+    "dom manipulation",
+    "async javascript and promises",
+    "es6+ modern javascript",
+    "javascript project",
+    "javascript practice project"
+  ],
+
+  "html": [
+    "introduction to html",
+    "html tags and elements",
+    "html forms and inputs",
+    "semantic html",
+    "html tables and lists",
+    "html5 features",
+    "html project",
+    "html practice project"
+  ],
+
+  "css": [
+    "introduction to css",
+    "selectors and properties",
+    "box model and layout",
+    "flexbox",
+    "css grid",
+    "responsive design and media queries",
+    "css animations and transitions",
+    "css project",
+    "css practice project"
+  ],
+
+  "react": [
+    "introduction to react",
+    "components and jsx",
+    "props and state",
+    "react hooks",
+    "routing with react router",
+    "state management",
+    "react project",
+    "react practice project"
+  ],
+
+  "nodejs": [
+    "introduction to node.js",
+    "node.js modules and file system",
+    "npm and package management",
+    "asynchronous programming",
+    "working with streams",
+    "node.js with databases",
+    "node.js project",
+    "node.js practice project"
+  ],
+
+  "express": [
+    "introduction to express",
+    "routing and url parameters",
+    "middleware",
+    "request and response handling",
+    "rest api design",
+    "authentication with jwt",
+    "express project",
+    "express practice project"
+  ],
+
+  "full stack": [
+    "introduction to full stack development",
+    "how the web works",
+    "frontend with html, css and javascript",
+    "backend with node.js and express",
+    "databases and mongodb",
+    "rest apis and client-server communication",
+    "authentication and authorization",
+    "full stack project",
+    "full stack practice project"
+  ],
+
+  "machine learning": [
+    "introduction to machine learning",
+    "python for data science",
+    "data preprocessing and cleaning",
+    "supervised learning algorithms",
+    "unsupervised learning algorithms",
+    "model evaluation and tuning",
+    "neural networks and deep learning",
+    "machine learning project",
+    "machine learning practice project"
+  ],
+
+  "typescript": [
+    "introduction to typescript",
+    "types, interfaces and enums",
+    "functions and generics",
+    "classes and oop in typescript",
+    "typescript with react",
+    "advanced types and utility types",
+    "typescript project",
+    "typescript practice project"
+  ],
+
+  "sql": [
+    "introduction to sql",
+    "creating and managing databases",
+    "crud operations",
+    "filtering and sorting data",
+    "joins and relationships",
+    "aggregations and group by",
+    "indexes and performance",
+    "sql project",
+    "sql practice project"
+  ],
+
+  "mongodb": [
+    "introduction to mongodb",
+    "collections and documents",
+    "crud operations",
+    "querying and filtering",
+    "indexes and aggregation",
+    "mongodb with mongoose",
+    "mongodb project",
+    "mongodb practice project"
+  ],
+
+  "docker": [
+    "introduction to docker",
+    "images and containers",
+    "dockerfile and building images",
+    "docker volumes and networks",
+    "docker compose",
+    "deploying with docker",
+    "docker project",
+    "docker practice project"
+  ],
+
+  "git": [
+    "introduction to git",
+    "staging, committing and history",
+    "branching and merging",
+    "remote repositories and github",
+    "resolving merge conflicts",
+    "git workflows and best practices",
+    "git practice project"
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "java": {
+    "introduction to java": [
+      { "title": "Java Full Course for Beginners - freeCodeCamp", "url": "https://www.youtube.com/watch?v=xk4_1vDrzzo" },
+      { "title": "Java Tutorial for Beginners - Programming with Mosh", "url": "https://www.youtube.com/watch?v=eIrMbAQSU34" }
+    ],
+    "java syntax and variables": [
+      { "title": "Java Variables and Data Types Tutorial", "url": "https://www.youtube.com/watch?v=grEKMHGYyns" },
+      { "title": "Java Syntax Explained for Beginners", "url": "https://www.youtube.com/watch?v=RRubcjpTkks" }
+    ],
+    "control flow and loops": [
+      { "title": "Java Control Flow - if else and switch", "url": "https://www.youtube.com/watch?v=ldYLYRNaucM" },
+      { "title": "Java Loops - for, while, do-while", "url": "https://www.youtube.com/watch?v=efvOswcUFY0" }
+    ],
+    "object oriented programming": [
+      { "title": "Java OOP - Classes and Objects Explained", "url": "https://www.youtube.com/watch?v=pTB0EiLXUC8" },
+      { "title": "Java Inheritance and Polymorphism Tutorial", "url": "https://www.youtube.com/watch?v=Zs342ePFvRI" }
+    ],
+    "collections framework": [
+      { "title": "Java Collections Framework Full Tutorial", "url": "https://www.youtube.com/watch?v=GdAon80-0KA" },
+      { "title": "Java ArrayList, HashMap and HashSet", "url": "https://www.youtube.com/watch?v=IgZy4QgBgvE" }
+    ],
+    "exception handling": [
+      { "title": "Java Exception Handling Tutorial", "url": "https://www.youtube.com/watch?v=1XAfapkBQjk" },
+      { "title": "Java Try Catch Finally Explained", "url": "https://www.youtube.com/watch?v=EWj60p8esD0" }
+    ],
+    "java project": [
+      { "title": "Java CRUD Application Project Tutorial", "url": "https://www.youtube.com/watch?v=5PdEmeopJVQ" },
+      { "title": "Java Library Management System Project", "url": "https://www.youtube.com/watch?v=6k2P6r9JrJQ" }
+    ],
+    "java practice project": [
+      { "title": "Java Tic Tac Toe Game Tutorial", "url": "https://www.youtube.com/watch?v=gQb3dE-y1S4" },
+      { "title": "Java Mini Projects for Beginners", "url": "https://www.youtube.com/watch?v=G5Ku0R4y9_k" }
+    ]
+  },
+
+  "python": {
+    "introduction to python": [
+      { "title": "Python for Everybody Full Course - freeCodeCamp", "url": "https://www.youtube.com/watch?v=8DvywoWv6fI" },
+      { "title": "Python Tutorial for Beginners - Programming with Mosh", "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc" }
+    ],
+    "variables and data types": [
+      { "title": "Python Variables and Data Types Explained", "url": "https://www.youtube.com/watch?v=khKv-8q7YmY" },
+      { "title": "Python Strings, Numbers and Booleans", "url": "https://www.youtube.com/watch?v=k9TUPpGqYTo" }
+    ],
+    "control flow and loops": [
+      { "title": "Python If Statements and Conditionals", "url": "https://www.youtube.com/watch?v=DZwmZ8Usvnk" },
+      { "title": "Python For and While Loops Tutorial", "url": "https://www.youtube.com/watch?v=94UHCEmprCY" }
+    ],
+    "functions and modules": [
+      { "title": "Python Functions Tutorial - Full Guide", "url": "https://www.youtube.com/watch?v=9Os0o3wzS_I" },
+      { "title": "Python Modules and Packages Explained", "url": "https://www.youtube.com/watch?v=1RuMJ53CKds" }
+    ],
+    "object oriented programming": [
+      { "title": "Python OOP - Classes and Objects Tutorial", "url": "https://www.youtube.com/watch?v=ZDa-Z5JzLYM" },
+      { "title": "Python Inheritance and Encapsulation", "url": "https://www.youtube.com/watch?v=RSl87lqOXDE" }
+    ],
+    "working with libraries": [
+      { "title": "Python pip and Virtual Environments", "url": "https://www.youtube.com/watch?v=APOPm01BVrk" },
+      { "title": "Top Python Libraries You Should Know", "url": "https://www.youtube.com/watch?v=8ext9G7xspg" }
+    ],
+    "python project": [
+      { "title": "Build a REST API with Python and Flask", "url": "https://www.youtube.com/watch?v=GMppyAPbLYk" },
+      { "title": "Python Automation Project Tutorial", "url": "https://www.youtube.com/watch?v=s8XjEuplx_U" }
+    ],
+    "python practice project": [
+      { "title": "Build a Python Game - Beginner Project", "url": "https://www.youtube.com/watch?v=XGf2GcyHPhc" },
+      { "title": "Python Mini Projects for Beginners", "url": "https://www.youtube.com/watch?v=8ext9G7xspg" }
+    ]
+  },
+
+  "javascript": {
+    "introduction to javascript": [
+      { "title": "JavaScript Full Course for Beginners - freeCodeCamp", "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg" },
+      { "title": "JavaScript Tutorial for Beginners - Programming with Mosh", "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk" }
+    ],
+    "variables, scopes and hoisting": [
+      { "title": "JavaScript Variables - var, let and const", "url": "https://www.youtube.com/watch?v=9O_PCTfoolU" },
+      { "title": "JavaScript Scope and Hoisting Explained", "url": "https://www.youtube.com/watch?v=uH-tVP8MUs8" }
+    ],
+    "control flow and loops": [
+      { "title": "JavaScript If Statements and Switch Cases", "url": "https://www.youtube.com/watch?v=IsG4Xd6LlsM" },
+      { "title": "JavaScript Loops - for, while, forEach", "url": "https://www.youtube.com/watch?v=s9wW2PpJsmQ" }
+    ],
+    "functions and closures": [
+      { "title": "JavaScript Functions Explained", "url": "https://www.youtube.com/watch?v=gigtS_5KOqo" },
+      { "title": "JavaScript Closures Tutorial", "url": "https://www.youtube.com/watch?v=3a0I8ICR1Vg" }
+    ],
+    "dom manipulation": [
+      { "title": "JavaScript DOM Manipulation Full Tutorial", "url": "https://www.youtube.com/watch?v=5fb2aPlgoys" },
+      { "title": "JavaScript Events and Event Listeners", "url": "https://www.youtube.com/watch?v=XF1_MlZ5l6M" }
+    ],
+    "async javascript and promises": [
+      { "title": "JavaScript Promises and Async Await - Traversy Media", "url": "https://www.youtube.com/watch?v=DHvZLI7Db8E" },
+      { "title": "JavaScript Fetch API Tutorial", "url": "https://www.youtube.com/watch?v=cuEtnrL9-H0" }
+    ],
+    "es6+ modern javascript": [
+      { "title": "JavaScript ES6 Features - Traversy Media", "url": "https://www.youtube.com/watch?v=NCwa_xi0Uuc" },
+      { "title": "Arrow Functions, Destructuring and Spread Operator", "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg" }
+    ],
+    "javascript project": [
+      { "title": "JavaScript Weather App Project - Traversy Media", "url": "https://www.youtube.com/watch?v=MIYQR-Ybrn4" },
+      { "title": "Build a Todo App with JavaScript", "url": "https://www.youtube.com/watch?v=G0jO8kUrg-I" }
+    ],
+    "javascript practice project": [
+      { "title": "10 JavaScript Projects in 1 Hour", "url": "https://www.youtube.com/watch?v=8GPPJpiLqHk" },
+      { "title": "JavaScript Mini Projects for Beginners", "url": "https://www.youtube.com/watch?v=dtKciwk_si4" }
+    ]
+  },
+
+  "html": {
+    "introduction to html": [
+      { "title": "HTML Full Course - Build a Website - freeCodeCamp", "url": "https://www.youtube.com/watch?v=pQN-pnXPaVg" },
+      { "title": "HTML Crash Course for Absolute Beginners - Traversy Media", "url": "https://www.youtube.com/watch?v=UB1O30fR-EE" }
+    ],
+    "html tags and elements": [
+      { "title": "HTML Tags and Elements - Full Reference Guide", "url": "https://www.youtube.com/watch?v=salY_Sm6mv4" },
+      { "title": "HTML Elements and Attributes Tutorial", "url": "https://www.youtube.com/watch?v=MDLn5-zSQQI" }
+    ],
+    "html forms and inputs": [
+      { "title": "HTML Forms and Input Fields Tutorial", "url": "https://www.youtube.com/watch?v=fNcJuPIZ2WE" },
+      { "title": "HTML Form Validation Tutorial", "url": "https://www.youtube.com/watch?v=In0nB0ABaUk" }
+    ],
+    "semantic html": [
+      { "title": "Semantic HTML Explained - Why It Matters", "url": "https://www.youtube.com/watch?v=kX3TfdUqpuU" },
+      { "title": "HTML5 Semantic Elements Tutorial", "url": "https://www.youtube.com/watch?v=ZTKBnBWWY0o" }
+    ],
+    "html tables and lists": [
+      { "title": "HTML Tables Tutorial", "url": "https://www.youtube.com/watch?v=iDA0kF5lrVk" },
+      { "title": "HTML Lists - Ordered, Unordered and Nested", "url": "https://www.youtube.com/watch?v=09oErCBjVns" }
+    ],
+    "html5 features": [
+      { "title": "HTML5 New Features - Full Overview", "url": "https://www.youtube.com/watch?v=kUMe1FH4CHE" },
+      { "title": "HTML5 Audio, Video and Canvas Tutorial", "url": "https://www.youtube.com/watch?v=xwRDsG4PZXE" }
+    ],
+    "html project": [
+      { "title": "Build a Portfolio Website with HTML and CSS", "url": "https://www.youtube.com/watch?v=oYRda7UtuhA" },
+      { "title": "HTML and CSS Website Build - Traversy Media", "url": "https://www.youtube.com/watch?v=Wm6CUkswsNw" }
+    ],
+    "html practice project": [
+      { "title": "5 HTML and CSS Projects for Beginners", "url": "https://www.youtube.com/watch?v=Db5jCkrVgAw" },
+      { "title": "Build a Landing Page with HTML", "url": "https://www.youtube.com/watch?v=aoQ6S1a32j8" }
+    ]
+  },
+
+  "css": {
+    "introduction to css": [
+      { "title": "CSS Crash Course for Absolute Beginners - Traversy Media", "url": "https://www.youtube.com/watch?v=yfoY53QXEnI" },
+      { "title": "CSS Tutorial - Zero to Hero - freeCodeCamp", "url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc" }
+    ],
+    "selectors and properties": [
+      { "title": "CSS Selectors Explained - Full Tutorial", "url": "https://www.youtube.com/watch?v=l1mER1bV0N0" },
+      { "title": "CSS Colors, Fonts and Text Styling", "url": "https://www.youtube.com/watch?v=gBi8Obib0tw" }
+    ],
+    "box model and layout": [
+      { "title": "CSS Box Model Explained", "url": "https://www.youtube.com/watch?v=rIO5326FgPE" },
+      { "title": "CSS Positioning - static, relative, absolute, fixed", "url": "https://www.youtube.com/watch?v=jx5jmI0UlXU" }
+    ],
+    "flexbox": [
+      { "title": "CSS Flexbox in 20 Minutes - Traversy Media", "url": "https://www.youtube.com/watch?v=JJSoEo8JSnc" },
+      { "title": "CSS Flexbox Full Tutorial - freeCodeCamp", "url": "https://www.youtube.com/watch?v=3YW65K6LcIA" }
+    ],
+    "css grid": [
+      { "title": "CSS Grid Layout Crash Course - Traversy Media", "url": "https://www.youtube.com/watch?v=jV8B24rSN5o" },
+      { "title": "CSS Grid Full Tutorial - freeCodeCamp", "url": "https://www.youtube.com/watch?v=t6CBKf8K_Ac" }
+    ],
+    "responsive design and media queries": [
+      { "title": "Responsive Web Design Tutorial - freeCodeCamp", "url": "https://www.youtube.com/watch?v=srvUrASNj0s" },
+      { "title": "CSS Media Queries Explained", "url": "https://www.youtube.com/watch?v=2KL-z9A56SQ" }
+    ],
+    "css animations and transitions": [
+      { "title": "CSS Animations Tutorial - Full Guide", "url": "https://www.youtube.com/watch?v=zHUpx90NerM" },
+      { "title": "CSS Transitions and Hover Effects", "url": "https://www.youtube.com/watch?v=YszONjKpgg4" }
+    ],
+    "css project": [
+      { "title": "Build a Responsive Website with CSS - Traversy Media", "url": "https://www.youtube.com/watch?v=moBhzSC455o" },
+      { "title": "CSS Portfolio Website Build", "url": "https://www.youtube.com/watch?v=oYRda7UtuhA" }
+    ],
+    "css practice project": [
+      { "title": "5 CSS Projects for Beginners", "url": "https://www.youtube.com/watch?v=Db5jCkrVgAw" },
+      { "title": "CSS Card Hover Effects - Mini Project", "url": "https://www.youtube.com/watch?v=qXRYMdvq_Dc" }
+    ]
+  },
+
+  "react": {
+    "introduction to react": [
+      { "title": "React Course for Beginners - freeCodeCamp", "url": "https://www.youtube.com/watch?v=bMknfKXIFA8" },
+      { "title": "React Tutorial for Beginners - Programming with Mosh", "url": "https://www.youtube.com/watch?v=SqcY0GlETPk" }
+    ],
+    "components and jsx": [
+      { "title": "React Components and JSX Explained", "url": "https://www.youtube.com/watch?v=9D1x7-2FmTA" },
+      { "title": "React Functional vs Class Components", "url": "https://www.youtube.com/watch?v=uGgPINlKqBs" }
+    ],
+    "props and state": [
+      { "title": "React Props and State Tutorial", "url": "https://www.youtube.com/watch?v=4ORZ1GmjaMc" },
+      { "title": "React Passing Data with Props", "url": "https://www.youtube.com/watch?v=PHaECbrKgs0" }
+    ],
+    "react hooks": [
+      { "title": "React Hooks - useState and useEffect - Traversy Media", "url": "https://www.youtube.com/watch?v=O6P86uwfdR0" },
+      { "title": "React Hooks Full Tutorial - freeCodeCamp", "url": "https://www.youtube.com/watch?v=f687hBjwFcM" }
+    ],
+    "routing with react router": [
+      { "title": "React Router v6 Full Tutorial", "url": "https://www.youtube.com/watch?v=Ul3y1LXxzdU" },
+      { "title": "React Router Crash Course - Traversy Media", "url": "https://www.youtube.com/watch?v=Law7wfdg_ls" }
+    ],
+    "state management": [
+      { "title": "Redux Toolkit Tutorial for Beginners", "url": "https://www.youtube.com/watch?v=bbkBuqC1rU4" },
+      { "title": "React Context API vs Redux - Which to Use", "url": "https://www.youtube.com/watch?v=5LrDIWkK_Bc" }
+    ],
+    "react project": [
+      { "title": "Build a Full Stack React App - freeCodeCamp", "url": "https://www.youtube.com/watch?v=I2UBjN5ER4s" },
+      { "title": "React Shopping Cart Project Tutorial", "url": "https://www.youtube.com/watch?v=tEMrD9t85v4" }
+    ],
+    "react practice project": [
+      { "title": "5 React Projects for Beginners", "url": "https://www.youtube.com/watch?v=nTeuhbP7wdE" },
+      { "title": "React Todo App - Beginner Project", "url": "https://www.youtube.com/watch?v=pCA4qpQDZD8" }
+    ]
+  },
+
+  "nodejs": {
+    "introduction to node.js": [
+      { "title": "Node.js Tutorial for Beginners - Programming with Mosh", "url": "https://www.youtube.com/watch?v=TlB_eWDSMt4" },
+      { "title": "Node.js Crash Course - Traversy Media", "url": "https://www.youtube.com/watch?v=fBNz5xF-Kx4" }
+    ],
+    "node.js modules and file system": [
+      { "title": "Node.js Modules System Explained", "url": "https://www.youtube.com/watch?v=f2EqECiTBL8" },
+      { "title": "Node.js File System Module Tutorial", "url": "https://www.youtube.com/watch?v=U57kU311-nE" }
+    ],
+    "npm and package management": [
+      { "title": "NPM Full Tutorial - Traversy Media", "url": "https://www.youtube.com/watch?v=jHDhaSSKmB0" },
+      { "title": "Node.js Package.json Explained", "url": "https://www.youtube.com/watch?v=hSdVDBPTr3M" }
+    ],
+    "asynchronous programming": [
+      { "title": "Node.js Async - Callbacks, Promises, Async Await", "url": "https://www.youtube.com/watch?v=PoRJizFvM7s" },
+      { "title": "Node.js Event Loop Explained", "url": "https://www.youtube.com/watch?v=8aGhZQkoFbQ" }
+    ],
+    "working with streams": [
+      { "title": "Node.js Streams Tutorial", "url": "https://www.youtube.com/watch?v=GlybFFMXXmQ" },
+      { "title": "Node.js Readable and Writable Streams", "url": "https://www.youtube.com/watch?v=E3tTzx0Qoj0" }
+    ],
+    "node.js with databases": [
+      { "title": "Node.js with MongoDB and Mongoose", "url": "https://www.youtube.com/watch?v=vjf774RKrLc" },
+      { "title": "Node.js with MySQL Tutorial", "url": "https://www.youtube.com/watch?v=EN6Dx22cquA" }
+    ],
+    "node.js project": [
+      { "title": "Node.js and Express REST API - freeCodeCamp", "url": "https://www.youtube.com/watch?v=Oe421EPjeBE" },
+      { "title": "Build a Node.js App with Authentication", "url": "https://www.youtube.com/watch?v=Vlv_aUNBT_Q" }
+    ],
+    "node.js practice project": [
+      { "title": "Build a Real Time Chat App with Node.js and Socket.io", "url": "https://www.youtube.com/watch?v=ZKEqqIO7n-k" },
+      { "title": "Node.js CLI App Project Tutorial", "url": "https://www.youtube.com/watch?v=v2GKt39-LPA" }
+    ]
+  },
+
+  "express": {
+    "introduction to express": [
+      { "title": "Express.js Crash Course - Traversy Media", "url": "https://www.youtube.com/watch?v=L72fhGm1tfE" },
+      { "title": "Express Tutorial for Beginners - Programming with Mosh", "url": "https://www.youtube.com/watch?v=pKd0Rpw7O48" }
+    ],
+    "routing and url parameters": [
+      { "title": "Express Routing and URL Parameters Explained", "url": "https://www.youtube.com/watch?v=lY6icfhap2o" },
+      { "title": "Express Router Tutorial", "url": "https://www.youtube.com/watch?v=JlgKybraoy4" }
+    ],
+    "middleware": [
+      { "title": "Express Middleware Explained - Full Guide", "url": "https://www.youtube.com/watch?v=y18ubzkATSs" },
+      { "title": "Writing Custom Middleware in Express", "url": "https://www.youtube.com/watch?v=lY6icfhap2o" }
+    ],
+    "request and response handling": [
+      { "title": "Express Request and Response Object Tutorial", "url": "https://www.youtube.com/watch?v=pKd0Rpw7O48" },
+      { "title": "Handling JSON and Form Data in Express", "url": "https://www.youtube.com/watch?v=L72fhGm1tfE" }
+    ],
+    "rest api design": [
+      { "title": "REST API Design Best Practices", "url": "https://www.youtube.com/watch?v=_YlYuNMTCc8" },
+      { "title": "Build a REST API with Node.js and Express - freeCodeCamp", "url": "https://www.youtube.com/watch?v=Oe421EPjeBE" }
+    ],
+    "authentication with jwt": [
+      { "title": "JWT Authentication Tutorial - Node.js and Express", "url": "https://www.youtube.com/watch?v=mbsmsi7l3r4" },
+      { "title": "Express Authentication with Passport.js", "url": "https://www.youtube.com/watch?v=6FOq4cUdH8k" }
+    ],
+    "express project": [
+      { "title": "Express CRUD API with MongoDB Tutorial", "url": "https://www.youtube.com/watch?v=TnvcKBSm7gg" },
+      { "title": "Build a REST API with Express and MongoDB", "url": "https://www.youtube.com/watch?v=-0exw-9YJBo" }
+    ],
+    "express practice project": [
+      { "title": "Build a Blog API with Express and MongoDB", "url": "https://www.youtube.com/watch?v=-0exw-9YJBo" },
+      { "title": "Express.js Mini Projects for Beginners", "url": "https://www.youtube.com/watch?v=G8uL0lFFoN0" }
+    ]
+  },
+
+  "full stack": {
+    "introduction to full stack development": [
+      { "title": "Full Stack Web Development for Beginners - freeCodeCamp", "url": "https://www.youtube.com/watch?v=ysEN5RaKOlA" },
+      { "title": "What is Full Stack Development - Traversy Media", "url": "https://www.youtube.com/watch?v=iqBFMLCGwPg" }
+    ],
+    "how the web works": [
+      { "title": "How the Web Works - HTTP, DNS and Servers Explained", "url": "https://www.youtube.com/watch?v=hJHvdBlSxug" },
+      { "title": "Frontend vs Backend vs Full Stack Explained", "url": "https://www.youtube.com/watch?v=XBu54nfzxAQ" }
+    ],
+    "frontend with html, css and javascript": [
+      { "title": "HTML, CSS and JavaScript Full Course - freeCodeCamp", "url": "https://www.youtube.com/watch?v=mU6anWqZJcc" },
+      { "title": "Web Development for Beginners - Traversy Media", "url": "https://www.youtube.com/watch?v=UB1O30fR-EE" }
+    ],
+    "backend with node.js and express": [
+      { "title": "Node.js and Express.js Full Course - freeCodeCamp", "url": "https://www.youtube.com/watch?v=Oe421EPjeBE" },
+      { "title": "Express.js Crash Course - Traversy Media", "url": "https://www.youtube.com/watch?v=L72fhGm1tfE" }
+    ],
+    "databases and mongodb": [
+      { "title": "MongoDB Crash Course - Traversy Media", "url": "https://www.youtube.com/watch?v=-56x56UppqQ" },
+      { "title": "MongoDB with Node.js and Mongoose Tutorial", "url": "https://www.youtube.com/watch?v=vjf774RKrLc" }
+    ],
+    "rest apis and client-server communication": [
+      { "title": "REST API Explained - Crash Course", "url": "https://www.youtube.com/watch?v=_YlYuNMTCc8" },
+      { "title": "How to Connect Frontend to Backend - Full Tutorial", "url": "https://www.youtube.com/watch?v=1Ra9fVNkLD0" }
+    ],
+    "authentication and authorization": [
+      { "title": "JWT Authentication - Node.js Full Tutorial", "url": "https://www.youtube.com/watch?v=mbsmsi7l3r4" },
+      { "title": "Full Stack Authentication with React and Node.js", "url": "https://www.youtube.com/watch?v=1Ra9fVNkLD0" }
+    ],
+    "full stack project": [
+      { "title": "MERN Stack Project - Build a Social Media App", "url": "https://www.youtube.com/watch?v=K8YELRmUb5o" },
+      { "title": "Full Stack Next.js and MongoDB App - freeCodeCamp", "url": "https://www.youtube.com/watch?v=wm5gMKuwSYk" }
+    ],
+    "full stack practice project": [
+      { "title": "Build a Full Stack Todo App - MERN", "url": "https://www.youtube.com/watch?v=98BzS5Oz5E4" },
+      { "title": "Full Stack E-Commerce App Tutorial", "url": "https://www.youtube.com/watch?v=4mOkFXyxfsU" }
+    ]
+  },
+
+  "machine learning": {
+    "introduction to machine learning": [
+      { "title": "Machine Learning for Beginners - freeCodeCamp", "url": "https://www.youtube.com/watch?v=NWONeJKn6kc" },
+      { "title": "Machine Learning Crash Course - Google", "url": "https://www.youtube.com/watch?v=KNAWp2S3w94" }
+    ],
+    "python for data science": [
+      { "title": "Python for Data Science - Full Course - freeCodeCamp", "url": "https://www.youtube.com/watch?v=GPVsHOlRBBI" },
+      { "title": "NumPy and Pandas Full Tutorial", "url": "https://www.youtube.com/watch?v=r-uOLxNrNk8" }
+    ],
+    "data preprocessing and cleaning": [
+      { "title": "Data Preprocessing in Python - Full Guide", "url": "https://www.youtube.com/watch?v=0xVqLJe9_CY" },
+      { "title": "Pandas Data Cleaning Tutorial", "url": "https://www.youtube.com/watch?v=ZOX18HfLHGQ" }
+    ],
+    "supervised learning algorithms": [
+      { "title": "Supervised Learning Algorithms Explained", "url": "https://www.youtube.com/watch?v=W01tIRP_Rqs" },
+      { "title": "Linear and Logistic Regression in Python", "url": "https://www.youtube.com/watch?v=VmbA0pi2cRQ" }
+    ],
+    "unsupervised learning algorithms": [
+      { "title": "Unsupervised Learning Explained - K-Means Clustering", "url": "https://www.youtube.com/watch?v=EItlUEPCIzM" },
+      { "title": "PCA and Dimensionality Reduction Tutorial", "url": "https://www.youtube.com/watch?v=FgakZw6K1QQ" }
+    ],
+    "model evaluation and tuning": [
+      { "title": "Model Evaluation Metrics in Machine Learning", "url": "https://www.youtube.com/watch?v=85dtiMz9tSo" },
+      { "title": "Hyperparameter Tuning and Cross Validation", "url": "https://www.youtube.com/watch?v=jVv_jyO_K2o" }
+    ],
+    "neural networks and deep learning": [
+      { "title": "Neural Networks from Scratch - Sentdex", "url": "https://www.youtube.com/watch?v=Wo5dMEP_BbI" },
+      { "title": "Deep Learning with TensorFlow and Keras - freeCodeCamp", "url": "https://www.youtube.com/watch?v=tPYj3fFJGjk" }
+    ],
+    "machine learning project": [
+      { "title": "Machine Learning Project - End to End Tutorial", "url": "https://www.youtube.com/watch?v=fiz1ORTBGpY" },
+      { "title": "Build and Deploy an ML Model with Flask", "url": "https://www.youtube.com/watch?v=UbCWoknAf6E" }
+    ],
+    "machine learning practice project": [
+      { "title": "5 Machine Learning Projects for Beginners", "url": "https://www.youtube.com/watch?v=DSM2uXenMnQ" },
+      { "title": "Titanic Dataset ML Project - Kaggle Tutorial", "url": "https://www.youtube.com/watch?v=I3FBJdiExcg" }
+    ]
+  },
+
+  "typescript": {
+    "introduction to typescript": [
+      { "title": "TypeScript Course for Beginners - Academind", "url": "https://www.youtube.com/watch?v=BwuLxPH8IDs" },
+      { "title": "TypeScript Full Course for Beginners - freeCodeCamp", "url": "https://www.youtube.com/watch?v=30LWjhZzg50" }
+    ],
+    "types, interfaces and enums": [
+      { "title": "TypeScript Types and Interfaces Explained", "url": "https://www.youtube.com/watch?v=LKVHFHJsiO0" },
+      { "title": "TypeScript Enums Tutorial", "url": "https://www.youtube.com/watch?v=3PasledIan0" }
+    ],
+    "functions and generics": [
+      { "title": "TypeScript Functions Tutorial", "url": "https://www.youtube.com/watch?v=ydkQlJhodio" },
+      { "title": "TypeScript Generics Explained", "url": "https://www.youtube.com/watch?v=nViEqpgwxHE" }
+    ],
+    "classes and oop in typescript": [
+      { "title": "TypeScript Classes and OOP Tutorial", "url": "https://www.youtube.com/watch?v=OsFwOzr3_sE" },
+      { "title": "TypeScript Interfaces vs Classes", "url": "https://www.youtube.com/watch?v=LKVHFHJsiO0" }
+    ],
+    "typescript with react": [
+      { "title": "React with TypeScript Tutorial - Traversy Media", "url": "https://www.youtube.com/watch?v=jrKcJxF0lAU" },
+      { "title": "TypeScript and React - Full Course - freeCodeCamp", "url": "https://www.youtube.com/watch?v=FJDVKeh7RJI" }
+    ],
+    "advanced types and utility types": [
+      { "title": "TypeScript Advanced Types Tutorial", "url": "https://www.youtube.com/watch?v=J57qlFCkBKE" },
+      { "title": "TypeScript Utility Types Explained", "url": "https://www.youtube.com/watch?v=nNse0r0aRT8" }
+    ],
+    "typescript project": [
+      { "title": "Build a REST API with TypeScript and Node.js", "url": "https://www.youtube.com/watch?v=H91aqUHn8sE" },
+      { "title": "TypeScript Full Stack App Tutorial", "url": "https://www.youtube.com/watch?v=Gjuf7kEPCTE" }
+    ],
+    "typescript practice project": [
+      { "title": "TypeScript Todo App Project", "url": "https://www.youtube.com/watch?v=d56mG7DezGs" },
+      { "title": "Build a TypeScript Quiz App", "url": "https://www.youtube.com/watch?v=G0jO8kUrg-I" }
+    ]
+  },
+
+  "sql": {
+    "introduction to sql": [
+      { "title": "SQL Tutorial - Full Database Course for Beginners - freeCodeCamp", "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY" },
+      { "title": "SQL Tutorial for Beginners - Programming with Mosh", "url": "https://www.youtube.com/watch?v=7S_tz1z_5bA" }
+    ],
+    "creating and managing databases": [
+      { "title": "SQL CREATE DATABASE and CREATE TABLE Tutorial", "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY" },
+      { "title": "MySQL Database Management Tutorial", "url": "https://www.youtube.com/watch?v=7S_tz1z_5bA" }
+    ],
+    "crud operations": [
+      { "title": "SQL INSERT, UPDATE, DELETE and SELECT Tutorial", "url": "https://www.youtube.com/watch?v=p3qvj9hO_Bo" },
+      { "title": "SQL CRUD Operations Full Guide", "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY" }
+    ],
+    "filtering and sorting data": [
+      { "title": "SQL WHERE, ORDER BY and LIMIT Explained", "url": "https://www.youtube.com/watch?v=p3qvj9hO_Bo" },
+      { "title": "SQL Filtering Data Tutorial", "url": "https://www.youtube.com/watch?v=7S_tz1z_5bA" }
+    ],
+    "joins and relationships": [
+      { "title": "SQL Joins Explained - INNER, LEFT, RIGHT, FULL", "url": "https://www.youtube.com/watch?v=9yeOJ0ZMUYw" },
+      { "title": "SQL Relationships and Foreign Keys Tutorial", "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY" }
+    ],
+    "aggregations and group by": [
+      { "title": "SQL Aggregate Functions - SUM, COUNT, AVG", "url": "https://www.youtube.com/watch?v=7S_tz1z_5bA" },
+      { "title": "SQL GROUP BY and HAVING Explained", "url": "https://www.youtube.com/watch?v=p3qvj9hO_Bo" }
+    ],
+    "indexes and performance": [
+      { "title": "SQL Indexes Explained - Full Tutorial", "url": "https://www.youtube.com/watch?v=fsG1XaZEa78" },
+      { "title": "SQL Query Optimization and Performance Tips", "url": "https://www.youtube.com/watch?v=BHwzDmr6d7s" }
+    ],
+    "sql project": [
+      { "title": "SQL Project - Build a Database from Scratch", "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY" },
+      { "title": "MySQL Real World Project Tutorial", "url": "https://www.youtube.com/watch?v=7S_tz1z_5bA" }
+    ],
+    "sql practice project": [
+      { "title": "SQL Practice Problems for Beginners", "url": "https://www.youtube.com/watch?v=p3qvj9hO_Bo" },
+      { "title": "SQL Mini Project - Employee Database", "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY" }
+    ]
+  },
+
+  "mongodb": {
+    "introduction to mongodb": [
+      { "title": "MongoDB Crash Course - Traversy Media", "url": "https://www.youtube.com/watch?v=-56x56UppqQ" },
+      { "title": "MongoDB Full Tutorial - freeCodeCamp", "url": "https://www.youtube.com/watch?v=ExcRbA7fy_A" }
+    ],
+    "collections and documents": [
+      { "title": "MongoDB Collections and Documents Explained", "url": "https://www.youtube.com/watch?v=-56x56UppqQ" },
+      { "title": "MongoDB Data Modeling Tutorial", "url": "https://www.youtube.com/watch?v=3GHZd0zv170" }
+    ],
+    "crud operations": [
+      { "title": "MongoDB CRUD Operations Tutorial", "url": "https://www.youtube.com/watch?v=ExcRbA7fy_A" },
+      { "title": "MongoDB Insert, Find, Update and Delete", "url": "https://www.youtube.com/watch?v=-56x56UppqQ" }
+    ],
+    "querying and filtering": [
+      { "title": "MongoDB Query Operators Tutorial", "url": "https://www.youtube.com/watch?v=ExcRbA7fy_A" },
+      { "title": "MongoDB Find and Filter Documents", "url": "https://www.youtube.com/watch?v=-56x56UppqQ" }
+    ],
+    "indexes and aggregation": [
+      { "title": "MongoDB Indexes Explained", "url": "https://www.youtube.com/watch?v=ExcRbA7fy_A" },
+      { "title": "MongoDB Aggregation Pipeline Tutorial", "url": "https://www.youtube.com/watch?v=A3jvoE0jGdE" }
+    ],
+    "mongodb with mongoose": [
+      { "title": "Mongoose Tutorial for Beginners - Traversy Media", "url": "https://www.youtube.com/watch?v=vjf774RKrLc" },
+      { "title": "MongoDB and Mongoose Full Tutorial - freeCodeCamp", "url": "https://www.youtube.com/watch?v=WDrU305J1yw" }
+    ],
+    "mongodb project": [
+      { "title": "MongoDB Node.js CRUD App Project", "url": "https://www.youtube.com/watch?v=vjf774RKrLc" },
+      { "title": "Build a REST API with MongoDB and Express", "url": "https://www.youtube.com/watch?v=TnvcKBSm7gg" }
+    ],
+    "mongodb practice project": [
+      { "title": "MongoDB Mini Project - Blog App", "url": "https://www.youtube.com/watch?v=-0exw-9YJBo" },
+      { "title": "MongoDB Practice Projects for Beginners", "url": "https://www.youtube.com/watch?v=ExcRbA7fy_A" }
+    ]
+  },
+
+  "docker": {
+    "introduction to docker": [
+      { "title": "Docker Tutorial for Beginners - freeCodeCamp", "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo" },
+      { "title": "Docker Crash Course for Absolute Beginners - TechWorld with Nana", "url": "https://www.youtube.com/watch?v=pg19Z8LL06w" }
+    ],
+    "images and containers": [
+      { "title": "Docker Images and Containers Explained", "url": "https://www.youtube.com/watch?v=pg19Z8LL06w" },
+      { "title": "Docker Pull, Run and Manage Containers", "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo" }
+    ],
+    "dockerfile and building images": [
+      { "title": "Dockerfile Tutorial - Build Your Own Image", "url": "https://www.youtube.com/watch?v=WmcdMiyqfZs" },
+      { "title": "Writing a Dockerfile - Step by Step Guide", "url": "https://www.youtube.com/watch?v=pg19Z8LL06w" }
+    ],
+    "docker volumes and networks": [
+      { "title": "Docker Volumes Tutorial - Persist Data", "url": "https://www.youtube.com/watch?v=SBUCYJgg4Mk" },
+      { "title": "Docker Networking Explained", "url": "https://www.youtube.com/watch?v=OU6xOM0SE4o" }
+    ],
+    "docker compose": [
+      { "title": "Docker Compose Tutorial - TechWorld with Nana", "url": "https://www.youtube.com/watch?v=MVIcrmeV_6c" },
+      { "title": "Docker Compose Full Tutorial - freeCodeCamp", "url": "https://www.youtube.com/watch?v=Qw9zlE3t8Ko" }
+    ],
+    "deploying with docker": [
+      { "title": "Deploy Docker App to AWS Tutorial", "url": "https://www.youtube.com/watch?v=rFDvQfDmqKg" },
+      { "title": "Docker Deployment - Full Guide", "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo" }
+    ],
+    "docker project": [
+      { "title": "Dockerize a Node.js App - Full Tutorial", "url": "https://www.youtube.com/watch?v=gAkwW2tuIqE" },
+      { "title": "Docker Full Stack App Project", "url": "https://www.youtube.com/watch?v=Qw9zlE3t8Ko" }
+    ],
+    "docker practice project": [
+      { "title": "Docker Mini Projects for Beginners", "url": "https://www.youtube.com/watch?v=pg19Z8LL06w" },
+      { "title": "Containerize a Python App with Docker", "url": "https://www.youtube.com/watch?v=bi0cKgmRuiA" }
+    ]
+  },
+
+  "git": {
+    "introduction to git": [
+      { "title": "Git and GitHub for Beginners - freeCodeCamp", "url": "https://www.youtube.com/watch?v=RGOj5yH7evk" },
+      { "title": "Git Tutorial for Beginners - Programming with Mosh", "url": "https://www.youtube.com/watch?v=8JJ101D3knE" }
+    ],
+    "staging, committing and history": [
+      { "title": "Git Add, Commit and Log Explained", "url": "https://www.youtube.com/watch?v=RGOj5yH7evk" },
+      { "title": "Git Status, Diff and History Tutorial", "url": "https://www.youtube.com/watch?v=8JJ101D3knE" }
+    ],
+    "branching and merging": [
+      { "title": "Git Branching and Merging Tutorial", "url": "https://www.youtube.com/watch?v=e2IbNHi4uCI" },
+      { "title": "Git Branch, Checkout and Merge Explained", "url": "https://www.youtube.com/watch?v=RGOj5yH7evk" }
+    ],
+    "remote repositories and github": [
+      { "title": "GitHub Full Tutorial - Push, Pull and Clone", "url": "https://www.youtube.com/watch?v=RGOj5yH7evk" },
+      { "title": "Git Remote Repositories Explained", "url": "https://www.youtube.com/watch?v=8JJ101D3knE" }
+    ],
+    "resolving merge conflicts": [
+      { "title": "Git Merge Conflicts - How to Resolve Them", "url": "https://www.youtube.com/watch?v=xNVM5UxlFSA" },
+      { "title": "Resolving Git Conflicts Step by Step", "url": "https://www.youtube.com/watch?v=RGOj5yH7evk" }
+    ],
+    "git workflows and best practices": [
+      { "title": "Git Workflow Tutorial - Feature Branch Workflow", "url": "https://www.youtube.com/watch?v=aJnFGMclhUs" },
+      { "title": "Git Best Practices - Tips for Teams", "url": "https://www.youtube.com/watch?v=RGOj5yH7evk" }
+    ],
+    "git practice project": [
+      { "title": "Git and GitHub Practice - Real Project Walkthrough", "url": "https://www.youtube.com/watch?v=RGOj5yH7evk" },
+      { "title": "Contributing to Open Source on GitHub", "url": "https://www.youtube.com/watch?v=yzeVMecydCE" }
+    ]
+  }
+}
