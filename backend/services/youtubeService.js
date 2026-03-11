@@ -13,7 +13,7 @@ async function searchYouTube(query) {
         params: {
           part: "snippet",
           q: query,
-          maxResults: 5,
+          maxResults: 2,
           type: "video",
           key: API_KEY,
         },
